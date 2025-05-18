@@ -1,0 +1,990 @@
+{
+    "url": "https://www.google.com/maps/search/pizzahut+toronto",
+    "scraper_name": "google-maps",
+    "results": [
+        {
+            "name": "Pizza Hut",
+            "address": [
+                "1386 Bayview Ave",
+                "Toronto, ON M4S 1B4",
+                "Canada"
+            ],
+            "stars": 4.2,
+            "ratings": 259,
+            "price_level": "CA$10–20",
+            "url": "https://www.pizzahut.ca/huts/ca-1/R31411?utm_source=google&utm_medium=listings&utm_campaign=YEXT&y_source=1_MTkyNTg4NzMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "type": [
+                "Pizza restaurant",
+                "Delivery service"
+            ],
+            "district": "Old Toronto",
+            "latitude": 43.7007348,
+            "longitude": -79.3735519,
+            "address_line": "Pizza Hut, 1386 Bayview Ave, Toronto, ON M4S 1B4, Canada",
+            "short_description": "Casual pizza chain with wide selection",
+            "long_description": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+            "open": {
+                "thursday": [
+                    "10:30 AM–12 AM"
+                ],
+                "friday": [
+                    "10:30 AM–1 AM"
+                ],
+                "saturday": [
+                    "10:30 AM–1 AM"
+                ],
+                "sunday": [
+                    "11:30 AM–11 PM"
+                ],
+                "monday": [
+                    "10:30 AM–12 AM"
+                ],
+                "tuesday": [
+                    "10:30 AM–12 AM"
+                ],
+                "wednesday": [
+                    "10:30 AM–12 AM"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipPJfQbn2ozzBlcz-VoIi5lZ7BWPadrrgYmgbPLT=w86-h114-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipPJfQbn2ozzBlcz-VoIi5lZ7BWPadrrgYmgbPLT=w408-h544-k-no"
+            ]
+        },
+        {
+            "name": "Pizza Hut",
+            "address": [
+                "922 Bloor St W",
+                "Toronto, ON M6H 1L4",
+                "Canada"
+            ],
+            "stars": 4.3,
+            "ratings": 389,
+            "price_level": "CA$10–20",
+            "url": "https://www.pizzahut.ca/huts/ca-1/R41301?utm_source=google&utm_medium=listings&utm_campaign=YEXT&y_source=1_MTkyNTkyNzMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "type": [
+                "Pizza restaurant",
+                "Delivery service"
+            ],
+            "district": "Old Toronto",
+            "latitude": 43.661853199999996,
+            "longitude": -79.42713409999999,
+            "address_line": "Pizza Hut, 922 Bloor St W, Toronto, ON M6H 1L4, Canada",
+            "short_description": "Casual pizza chain with wide selection",
+            "long_description": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+            "open": {
+                "thursday": [
+                    "10:30 AM–12 AM"
+                ],
+                "friday": [
+                    "10:30 AM–2 AM"
+                ],
+                "saturday": [
+                    "10:30 AM–2 AM"
+                ],
+                "sunday": [
+                    "10:30 AM–12 AM"
+                ],
+                "monday": [
+                    "10:30 AM–11 PM"
+                ],
+                "tuesday": [
+                    "10:30 AM–11 PM"
+                ],
+                "wednesday": [
+                    "10:30 AM–11 PM"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipMO7zqOByOR5s4dzEke1TzYRgnbyFhf195UC6lp=w86-h114-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipMO7zqOByOR5s4dzEke1TzYRgnbyFhf195UC6lp=w408-h544-k-no"
+            ]
+        },
+        {
+            "name": "Pizza Hut",
+            "address": [
+                "720 King St W",
+                "Toronto, ON M5V 2T3",
+                "Canada"
+            ],
+            "stars": 3.6,
+            "ratings": 613,
+            "price_level": "CA$10–20",
+            "url": "https://www.pizzahut.ca/huts/ca-1/R31901?utm_source=google&utm_medium=listings&utm_campaign=YEXT&y_source=1_MTkyNTg5MzItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "type": [
+                "Pizza restaurant",
+                "Delivery service"
+            ],
+            "district": "Old Toronto",
+            "latitude": 43.6439357,
+            "longitude": -79.40442829999999,
+            "address_line": "Pizza Hut, 720 King St W, Toronto, ON M5V 2T3, Canada",
+            "short_description": "Casual pizza chain with wide selection",
+            "long_description": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+            "open": {
+                "thursday": [
+                    "10:30 AM–12 AM"
+                ],
+                "friday": [
+                    "10:30 AM–2 AM"
+                ],
+                "saturday": [
+                    "10:30 AM–2 AM"
+                ],
+                "sunday": [
+                    "10:30 AM–12 AM"
+                ],
+                "monday": [
+                    "10:30 AM–11 PM"
+                ],
+                "tuesday": [
+                    "10:30 AM–11 PM"
+                ],
+                "wednesday": [
+                    "10:30 AM–11 PM"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipM4Zk5NUGoTHTymkWcxc2XhWLEudQ3S_-yq4dUK=w114-h86-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipM4Zk5NUGoTHTymkWcxc2XhWLEudQ3S_-yq4dUK=w408-h306-k-no"
+            ]
+        },
+        {
+            "name": "Pizza Hut",
+            "address": [
+                "77 Lower Jarvis St",
+                "Toronto, ON M5A 4B6",
+                "Canada"
+            ],
+            "stars": 3.6,
+            "ratings": 608,
+            "price_level": "CA$10–20",
+            "url": "https://www.pizzahut.ca/huts/ca-1/R31902?utm_source=google&utm_medium=listings&utm_campaign=YEXT&y_source=1_MTkyNTg5MzMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "type": [
+                "Pizza restaurant",
+                "Delivery service"
+            ],
+            "district": "Old Toronto",
+            "latitude": 43.6476079,
+            "longitude": -79.3704387,
+            "address_line": "Pizza Hut, 77 Lower Jarvis St, Toronto, ON M5A 4B6, Canada",
+            "short_description": "Casual pizza chain with wide selection",
+            "long_description": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+            "open": {
+                "thursday": [
+                    "10:30 AM–12 AM"
+                ],
+                "friday": [
+                    "10:30 AM–2 AM"
+                ],
+                "saturday": [
+                    "10:30 AM–2 AM"
+                ],
+                "sunday": [
+                    "10:30 AM–12 AM"
+                ],
+                "monday": [
+                    "10:30 AM–11 PM"
+                ],
+                "tuesday": [
+                    "10:30 AM–11 PM"
+                ],
+                "wednesday": [
+                    "10:30 AM–11 PM"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipPSC1_xJEk2eI-60BTUz-gPz0mFG2aiZLXmg5RF=w114-h86-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipPSC1_xJEk2eI-60BTUz-gPz0mFG2aiZLXmg5RF=w408-h306-k-no"
+            ]
+        },
+        {
+            "name": "Pizza Hut",
+            "address": [
+                "810 Church St",
+                "Toronto, ON M4W 2M4",
+                "Canada"
+            ],
+            "stars": 3.9,
+            "ratings": 345,
+            "price_level": "CA$10–20",
+            "url": "https://www.pizzahut.ca/huts/ca-1/R34001?utm_source=google&utm_medium=listings&utm_campaign=YEXT&y_source=1_MTkyNTkwNTEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "type": [
+                "Pizza restaurant",
+                "Delivery service"
+            ],
+            "district": "Old Toronto",
+            "latitude": 43.6720665,
+            "longitude": -79.385358,
+            "address_line": "Pizza Hut, 810 Church St, Toronto, ON M4W 2M4, Canada",
+            "short_description": "Casual pizza chain with wide selection",
+            "long_description": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+            "open": {
+                "thursday": [
+                    "10:30 AM–12 AM"
+                ],
+                "friday": [
+                    "10:30 AM–2 AM"
+                ],
+                "saturday": [
+                    "10:30 AM–2 AM"
+                ],
+                "sunday": [
+                    "10:30 AM–12 AM"
+                ],
+                "monday": [
+                    "10:30 AM–11 PM"
+                ],
+                "tuesday": [
+                    "10:30 AM–11 PM"
+                ],
+                "wednesday": [
+                    "10:30 AM–11 PM"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipPolJBWtc-umHiD03_ZdMjRgHiSHOVr_YeaL5D1=w114-h86-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipPolJBWtc-umHiD03_ZdMjRgHiSHOVr_YeaL5D1=w408-h306-k-no"
+            ]
+        },
+        {
+            "name": "Pizza Hut",
+            "address": [
+                "233 Eglinton Ave W",
+                "Toronto, ON M4R 1A9",
+                "Canada"
+            ],
+            "stars": 4,
+            "ratings": 287,
+            "price_level": "CA$10–30",
+            "url": "https://www.pizzahut.ca/huts/ca-1/R31414?utm_source=google&utm_medium=listings&utm_campaign=YEXT&y_source=1_MTkyNTg4NzYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "type": [
+                "Pizza restaurant",
+                "Delivery service"
+            ],
+            "district": "Old Toronto",
+            "latitude": 43.7048056,
+            "longitude": -79.4056564,
+            "address_line": "Pizza Hut, 233 Eglinton Ave W, Toronto, ON M4R 1A9, Canada",
+            "short_description": "Casual pizza chain with wide selection",
+            "long_description": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+            "open": {
+                "thursday": [
+                    "10:30 AM–12 AM"
+                ],
+                "friday": [
+                    "10:30 AM–1 AM"
+                ],
+                "saturday": [
+                    "10:30 AM–1 AM"
+                ],
+                "sunday": [
+                    "11:30 AM–11 PM"
+                ],
+                "monday": [
+                    "10:30 AM–11 PM"
+                ],
+                "tuesday": [
+                    "10:30 AM–11 PM"
+                ],
+                "wednesday": [
+                    "10:30 AM–11 PM"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipMATsV9yTfmJSjRbgcz3ilULPWIRaNKMncmpKtN=w114-h86-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipMATsV9yTfmJSjRbgcz3ilULPWIRaNKMncmpKtN=w408-h306-k-no"
+            ]
+        },
+        {
+            "name": "Pizza Hut",
+            "address": [
+                "2575 St Clair Ave W # 3",
+                "York, ON M6N 4Z5",
+                "Canada"
+            ],
+            "stars": 4.2,
+            "ratings": 188,
+            "price_level": "CA$10–20",
+            "url": "https://www.pizzahut.ca/huts/ca-1/R45801?utm_source=google&utm_medium=listings&utm_campaign=YEXT&y_source=1_MTkyNTg5NjAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "type": [
+                "Pizza restaurant",
+                "Delivery service"
+            ],
+            "district": "York",
+            "latitude": 43.6676827,
+            "longitude": -79.4884825,
+            "address_line": "Pizza Hut, 2575 St Clair Ave W # 3, York, ON M6N 4Z5, Canada",
+            "short_description": "Casual pizza chain with wide selection",
+            "long_description": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+            "open": {
+                "thursday": [
+                    "10:30 AM–12 AM"
+                ],
+                "friday": [
+                    "10:30 AM–2 AM"
+                ],
+                "saturday": [
+                    "10:30 AM–2 AM"
+                ],
+                "sunday": [
+                    "10:30 AM–12 AM"
+                ],
+                "monday": [
+                    "10:30 AM–11 PM"
+                ],
+                "tuesday": [
+                    "10:30 AM–11 PM"
+                ],
+                "wednesday": [
+                    "10:30 AM–11 PM"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipPZRIAs9yvQWDsxJcYGcgKMTaPYPUblsoz5v22Y=w86-h114-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipPZRIAs9yvQWDsxJcYGcgKMTaPYPUblsoz5v22Y=w408-h544-k-no"
+            ]
+        },
+        {
+            "name": "Pizza Hut",
+            "address": [
+                "6005 Yonge St",
+                "North York, ON M2M 3W2",
+                "Canada"
+            ],
+            "stars": 4.1,
+            "ratings": 646,
+            "price_level": "CA$10–20",
+            "url": "https://www.pizzahut.ca/huts/ca-1/R31413?utm_source=google&utm_medium=listings&utm_campaign=YEXT&y_source=1_MTkyNTg4NzUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "type": [
+                "Pizza restaurant",
+                "Delivery service"
+            ],
+            "district": "North York",
+            "latitude": 43.789483999999995,
+            "longitude": -79.4171447,
+            "address_line": "Pizza Hut, 6005 Yonge St, North York, ON M2M 3W2, Canada",
+            "short_description": "Casual pizza chain with wide selection",
+            "long_description": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+            "open": {
+                "thursday": [
+                    "10:30 AM–12 AM"
+                ],
+                "friday": [
+                    "10:30 AM–1 AM"
+                ],
+                "saturday": [
+                    "10:30 AM–1 AM"
+                ],
+                "sunday": [
+                    "11:30 AM–11 PM"
+                ],
+                "monday": [
+                    "10:30 AM–12 AM"
+                ],
+                "tuesday": [
+                    "10:30 AM–12 AM"
+                ],
+                "wednesday": [
+                    "10:30 AM–12 AM"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipMl5EiaEo3KKUjjm26EsNI86U5LBtB7YVIDb6YA=w86-h114-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipMl5EiaEo3KKUjjm26EsNI86U5LBtB7YVIDb6YA=w408-h544-k-no"
+            ]
+        },
+        {
+            "name": "Pizza Hut",
+            "address": [
+                "1630 Albion Rd",
+                "Toronto, ON M9V 5H5",
+                "Canada"
+            ],
+            "stars": 3.9,
+            "ratings": 988,
+            "price_level": "CA$10–30",
+            "url": "https://www.pizzahut.ca/huts/ca-1/R33801?utm_source=google&utm_medium=listings&utm_campaign=YEXT&y_source=1_MTkyNTkyNjMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "type": [
+                "Pizza restaurant",
+                "Delivery service"
+            ],
+            "district": "Etobicoke",
+            "latitude": 43.7420246,
+            "longitude": -79.5933793,
+            "address_line": "Pizza Hut, 1630 Albion Rd, Toronto, ON M9V 5H5, Canada",
+            "short_description": "Casual pizza chain with wide selection",
+            "long_description": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+            "open": {
+                "thursday": [
+                    "10:30 AM–12 AM"
+                ],
+                "friday": [
+                    "10:30 AM–1 AM"
+                ],
+                "saturday": [
+                    "10:30 AM–1 AM"
+                ],
+                "sunday": [
+                    "11 AM–11 PM"
+                ],
+                "monday": [
+                    "10:30 AM–11 PM"
+                ],
+                "tuesday": [
+                    "10:30 AM–11 PM"
+                ],
+                "wednesday": [
+                    "10:30 AM–11 PM"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipN3wHuKmA2qtTE8mzofzoCMsN1jEguTGOc51YcG=w114-h86-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipN3wHuKmA2qtTE8mzofzoCMsN1jEguTGOc51YcG=w408-h306-k-no"
+            ]
+        },
+        {
+            "name": "Pizza Hut",
+            "address": [
+                "4936 Yonge St",
+                "North York, ON M2N 6S3",
+                "Canada"
+            ],
+            "stars": 4.1,
+            "ratings": 836,
+            "price_level": "CA$10–20",
+            "url": "https://www.pizzahut.ca/huts/ca-1/R31401?utm_source=google&utm_medium=listings&utm_campaign=YEXT&y_source=1_MTkyNTg4NjMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "type": [
+                "Pizza restaurant",
+                "Delivery service"
+            ],
+            "district": "North York",
+            "latitude": 43.7644938,
+            "longitude": -79.4122378,
+            "address_line": "Pizza Hut, 4936 Yonge St, North York, ON M2N 6S3, Canada",
+            "short_description": "Casual pizza chain with wide selection",
+            "long_description": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+            "open": {
+                "thursday": [
+                    "10:30 AM–12 AM"
+                ],
+                "friday": [
+                    "10:30 AM–1 AM"
+                ],
+                "saturday": [
+                    "10:30 AM–1 AM"
+                ],
+                "sunday": [
+                    "11:30 AM–12 AM"
+                ],
+                "monday": [
+                    "10:30 AM–12 AM"
+                ],
+                "tuesday": [
+                    "10:30 AM–12 AM"
+                ],
+                "wednesday": [
+                    "10:30 AM–12 AM"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipNN7xns4wfiO6sFWn48tdAx-m8qwL4ZUcGcntlb=w86-h114-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNN7xns4wfiO6sFWn48tdAx-m8qwL4ZUcGcntlb=w408-h544-k-no"
+            ]
+        },
+        {
+            "name": "Pizza Hut",
+            "address": [
+                "844 Danforth Ave",
+                "Toronto, ON M4J 1L7",
+                "Canada"
+            ],
+            "stars": 4.2,
+            "ratings": 241,
+            "price_level": "$$",
+            "url": "https://www.pizzahut.ca/",
+            "type": [
+                "Pizza restaurant",
+                "Delivery Restaurant",
+                "Takeout Restaurant",
+                "Pizza delivery",
+                "Pizza Takeout"
+            ],
+            "district": "Old Toronto",
+            "latitude": 43.679946,
+            "longitude": -79.3404205,
+            "address_line": "Pizza Hut, 844 Danforth Ave, Toronto, ON M4J 1L7, Canada",
+            "short_description": "Casual pizza chain with wide selection",
+            "long_description": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+            "open": {
+                "thursday": [
+                    "11 AM–11 PM"
+                ],
+                "friday": [
+                    "11 AM–12 AM"
+                ],
+                "saturday": [
+                    "11 AM–12 AM"
+                ],
+                "sunday": [
+                    "11 AM–10 PM"
+                ],
+                "monday": [
+                    "11 AM–11 PM"
+                ],
+                "tuesday": [
+                    "11 AM–11 PM"
+                ],
+                "wednesday": [
+                    "11 AM–11 PM"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipOdqm3QmM-EoalvoixzsmZ7Cx6-AOch0x6oj5KU=w86-h152-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipOdqm3QmM-EoalvoixzsmZ7Cx6-AOch0x6oj5KU=w408-h725-k-no"
+            ]
+        },
+        {
+            "name": "Pizza Hut",
+            "address": [
+                "609 Kingston Rd",
+                "Toronto, ON M4E 1R3",
+                "Canada"
+            ],
+            "stars": 4.5,
+            "ratings": 219,
+            "price_level": "CA$10–20",
+            "url": "https://www.pizzahut.ca/huts/ca-1/R31417?utm_source=google&utm_medium=listings&utm_campaign=YEXT&y_source=1_MjYwNTEwODUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "type": [
+                "Pizza restaurant",
+                "Delivery service"
+            ],
+            "district": "Old Toronto",
+            "latitude": 43.678658299999995,
+            "longitude": -79.29853109999999,
+            "address_line": "Pizza Hut, 609 Kingston Rd, Toronto, ON M4E 1R3, Canada",
+            "short_description": "Casual pizza chain with wide selection",
+            "long_description": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+            "open": {
+                "thursday": [
+                    "10:30 AM–11 PM"
+                ],
+                "friday": [
+                    "10:30 AM–12 AM"
+                ],
+                "saturday": [
+                    "10:30 AM–12 AM"
+                ],
+                "sunday": [
+                    "11:30 AM–11 PM"
+                ],
+                "monday": [
+                    "10:30 AM–11 PM"
+                ],
+                "tuesday": [
+                    "10:30 AM–11 PM"
+                ],
+                "wednesday": [
+                    "10:30 AM–11 PM"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipO8JUc_QvBdq__0oWBQhU8Wc6ntv8KjpNQzRv_c=w86-h90-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipO8JUc_QvBdq__0oWBQhU8Wc6ntv8KjpNQzRv_c=w408-h427-k-no"
+            ]
+        },
+        {
+            "name": "Pizza Hut",
+            "address": [
+                "890 St Clair Ave W",
+                "Midtown Toronto, ON M6C 1C5",
+                "Canada"
+            ],
+            "stars": 4.9,
+            "ratings": 34,
+            "price_level": "CA$10–20",
+            "url": "https://www.pizzahut.ca/",
+            "type": [
+                "Restaurant",
+                "American restaurant"
+            ],
+            "district": "Midtown Toronto",
+            "latitude": 43.6804134,
+            "longitude": -79.4329963,
+            "address_line": "Pizza Hut, 890 St Clair Ave W, Midtown Toronto, ON M6C 1C5, Canada",
+            "short_description": "Casual pizza chain with wide selection",
+            "long_description": "Family-friendly chain known for its made-to-order pizzas.",
+            "open": {
+                "thursday": [
+                    "10:30 AM–11 PM"
+                ],
+                "friday": [
+                    "10:30 AM–1 AM"
+                ],
+                "saturday": [
+                    "10:30 AM–1 AM"
+                ],
+                "sunday": [
+                    "10:30 AM–11 PM"
+                ],
+                "monday": [
+                    "10:30 AM–11 PM"
+                ],
+                "tuesday": [
+                    "10:30 AM–11 PM"
+                ],
+                "wednesday": [
+                    "10:30 AM–11 PM"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipO_qKPi_gZGtDPHRkS2L-DNpFuhaxgJnG4VLgBE=w86-h114-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipO_qKPi_gZGtDPHRkS2L-DNpFuhaxgJnG4VLgBE=w408-h544-k-no"
+            ]
+        },
+        {
+            "name": "Pizza Hut",
+            "address": [
+                "1949 Finch Ave W",
+                "North York, ON M3N 2V3",
+                "Canada"
+            ],
+            "stars": 3.8,
+            "ratings": 691,
+            "price_level": "$$",
+            "url": "https://www.pizzahut.ca/huts/ca-1/R34101?utm_source=google&utm_medium=listings&utm_campaign=YEXT&y_source=1_MTkyNTkwNTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "type": [
+                "Pizza restaurant",
+                "Delivery service"
+            ],
+            "district": "North York",
+            "latitude": 43.7561689,
+            "longitude": -79.5179835,
+            "address_line": "Pizza Hut, 1949 Finch Ave W, North York, ON M3N 2V3, Canada",
+            "short_description": "Casual pizza chain with wide selection",
+            "long_description": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+            "open": {
+                "thursday": [
+                    "10:30 AM–12 AM"
+                ],
+                "friday": [
+                    "10:30 AM–1 AM"
+                ],
+                "saturday": [
+                    "10:30 AM–1 AM"
+                ],
+                "sunday": [
+                    "11 AM–11 PM"
+                ],
+                "monday": [
+                    "10:30 AM–11 PM"
+                ],
+                "tuesday": [
+                    "10:30 AM–11 PM"
+                ],
+                "wednesday": [
+                    "10:30 AM–11 PM"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipOKzaUXYmaH3QEHYdnUsEYZXBE8krK-P3K_0xQ_=w86-h114-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipOKzaUXYmaH3QEHYdnUsEYZXBE8krK-P3K_0xQ_=w408-h544-k-no"
+            ]
+        },
+        {
+            "name": "Pizza Hut",
+            "address": [
+                "5132 Dundas St W",
+                "Etobicoke, ON M9A 1C2",
+                "Canada"
+            ],
+            "stars": 4.5,
+            "ratings": 237,
+            "price_level": "CA$10–20",
+            "url": "https://www.pizzahut.ca/huts/ca-1/R31502?utm_source=google&utm_medium=listings&utm_campaign=YEXT&y_source=1_MjEwOTMwNzQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "type": [
+                "Pizza restaurant",
+                "Delivery service"
+            ],
+            "district": "Etobicoke",
+            "latitude": 43.6442143,
+            "longitude": -79.5334898,
+            "address_line": "Pizza Hut, 5132 Dundas St W, Etobicoke, ON M9A 1C2, Canada",
+            "short_description": "Casual pizza chain with wide selection",
+            "long_description": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+            "open": {
+                "thursday": [
+                    "10:30 AM–12 AM"
+                ],
+                "friday": [
+                    "10:30 AM–1 AM"
+                ],
+                "saturday": [
+                    "10:30 AM–1 AM"
+                ],
+                "sunday": [
+                    "10:30 AM–12 AM"
+                ],
+                "monday": [
+                    "10:30 AM–11 PM"
+                ],
+                "tuesday": [
+                    "10:30 AM–11 PM"
+                ],
+                "wednesday": [
+                    "10:30 AM–11 PM"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipOiPr5dBocyuxuJ_oHd-E3BHaI26agdRcR4UT4Q=w86-h152-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipOiPr5dBocyuxuJ_oHd-E3BHaI26agdRcR4UT4Q=w408-h724-k-no"
+            ]
+        },
+        {
+            "name": "Pizza Hut",
+            "address": [
+                "2100 Bloor St W",
+                "Toronto, ON M6S 4Y7",
+                "Canada"
+            ],
+            "stars": 4,
+            "ratings": 460,
+            "price_level": "CA$10–20",
+            "url": "https://www.pizzahut.ca/huts/ca-1/R30601?utm_source=google&utm_medium=listings&utm_campaign=YEXT&y_source=1_MTkyNTkwMTctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "type": [
+                "Pizza restaurant",
+                "Delivery service"
+            ],
+            "district": "Old Toronto",
+            "latitude": 43.6523884,
+            "longitude": -79.47167809999999,
+            "address_line": "Pizza Hut, 2100 Bloor St W, Toronto, ON M6S 4Y7, Canada",
+            "short_description": "Casual pizza chain with wide selection",
+            "long_description": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+            "open": {
+                "thursday": [
+                    "10:30 AM–12 AM"
+                ],
+                "friday": [
+                    "10:30 AM–2 AM"
+                ],
+                "saturday": [
+                    "10:30 AM–2 AM"
+                ],
+                "sunday": [
+                    "10:30 AM–12 AM"
+                ],
+                "monday": [
+                    "10:30 AM–11 PM"
+                ],
+                "tuesday": [
+                    "10:30 AM–11 PM"
+                ],
+                "wednesday": [
+                    "10:30 AM–11 PM"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipNZYn1dXEBWV8CoGQYZ8AYBGujbLyrXh3CL4Doo=w152-h86-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNZYn1dXEBWV8CoGQYZ8AYBGujbLyrXh3CL4Doo=w426-h240-k-no"
+            ]
+        },
+        {
+            "name": "Pizza Hut",
+            "address": [
+                "985 Coxwell Ave",
+                "Toronto, ON M4C 3G4",
+                "Canada"
+            ],
+            "stars": 4,
+            "ratings": 507,
+            "price_level": "CA$10–20",
+            "url": "https://www.pizzahut.ca/huts/ca-1/R31404?utm_source=google&utm_medium=listings&utm_campaign=YEXT&y_source=1_MTkyNTg4NjYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "type": [
+                "Pizza restaurant",
+                "Delivery service"
+            ],
+            "district": "East York",
+            "latitude": 43.6964356,
+            "longitude": -79.3285985,
+            "address_line": "Pizza Hut, 985 Coxwell Ave, Toronto, ON M4C 3G4, Canada",
+            "short_description": "Casual pizza chain with wide selection",
+            "long_description": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+            "open": {
+                "thursday": [
+                    "10:30 AM–12 AM"
+                ],
+                "friday": [
+                    "10:30 AM–1 AM"
+                ],
+                "saturday": [
+                    "10:30 AM–1 AM"
+                ],
+                "sunday": [
+                    "11:30 AM–12 AM"
+                ],
+                "monday": [
+                    "10:30 AM–12 AM"
+                ],
+                "tuesday": [
+                    "10:30 AM–12 AM"
+                ],
+                "wednesday": [
+                    "10:30 AM–12 AM"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipMutYaT46MsFT7Q9iSkVYMfeYkFEulQGKl3SluI=w114-h86-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipMutYaT46MsFT7Q9iSkVYMfeYkFEulQGKl3SluI=w408-h306-k-no"
+            ]
+        },
+        {
+            "name": "Pizza Hut",
+            "address": [
+                "1862 Eglinton Ave W",
+                "York, ON M6E 2J4",
+                "Canada"
+            ],
+            "stars": 4.2,
+            "ratings": 364,
+            "price_level": "CA$10–20",
+            "url": "https://www.pizzahut.ca/huts/ca-1/R38601?utm_source=google&utm_medium=listings&utm_campaign=YEXT&y_source=1_MTkyNTkwNjYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "type": [
+                "Pizza restaurant",
+                "Delivery service"
+            ],
+            "district": "York",
+            "latitude": 43.6956164,
+            "longitude": -79.4515207,
+            "address_line": "Pizza Hut, 1862 Eglinton Ave W, York, ON M6E 2J4, Canada",
+            "short_description": "Casual pizza chain with wide selection",
+            "long_description": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+            "open": {
+                "thursday": [
+                    "10:30 AM–12 AM"
+                ],
+                "friday": [
+                    "10:30 AM–2 AM"
+                ],
+                "saturday": [
+                    "10:30 AM–2 AM"
+                ],
+                "sunday": [
+                    "10:30 AM–12 AM"
+                ],
+                "monday": [
+                    "10:30 AM–11 PM"
+                ],
+                "tuesday": [
+                    "10:30 AM–11 PM"
+                ],
+                "wednesday": [
+                    "10:30 AM–11 PM"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipPPftF04-LB00PD0PNaUaZYhl8q7aiVdi-hIaYT=w86-h86-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipPPftF04-LB00PD0PNaUaZYhl8q7aiVdi-hIaYT=w408-h408-k-no"
+            ]
+        },
+        {
+            "name": "Pizza Hut",
+            "address": [
+                "3555 Don Mills Rd",
+                "North York, ON M2H 3N3",
+                "Canada"
+            ],
+            "stars": 3.7,
+            "ratings": 887,
+            "price_level": "CA$10–20",
+            "url": "https://www.pizzahut.ca/huts/ca-1/R31409?utm_source=google&utm_medium=listings&utm_campaign=YEXT&y_source=1_MTkyNTg4NzEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "type": [
+                "Pizza restaurant",
+                "Delivery service"
+            ],
+            "district": "North York",
+            "latitude": 43.7932621,
+            "longitude": -79.3537113,
+            "address_line": "Pizza Hut, 3555 Don Mills Rd, North York, ON M2H 3N3, Canada",
+            "short_description": "Casual pizza chain with wide selection",
+            "long_description": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+            "open": {
+                "thursday": [
+                    "10:30 AM–1 AM"
+                ],
+                "friday": [
+                    "10:30 AM–1 AM"
+                ],
+                "saturday": [
+                    "10:30 AM–1 AM"
+                ],
+                "sunday": [
+                    "11:30 AM–12 AM"
+                ],
+                "monday": [
+                    "10:30 AM–12 AM"
+                ],
+                "tuesday": [
+                    "10:30 AM–12 AM"
+                ],
+                "wednesday": [
+                    "10:30 AM–12 AM"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipNiB9IKRWcxEqvhnCt1zFEQkfWdJL_79osZbTB_=w114-h86-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNiB9IKRWcxEqvhnCt1zFEQkfWdJL_79osZbTB_=w408-h306-k-no"
+            ]
+        },
+        {
+            "name": "Pizza Hut",
+            "address": [
+                "861 York Mills Rd #5",
+                "North York, ON M3B 1Y4",
+                "Canada"
+            ],
+            "stars": 4.1,
+            "ratings": 550,
+            "price_level": "CA$10–20",
+            "url": "https://www.pizzahut.ca/huts/ca-1/R31412?utm_source=google&utm_medium=listings&utm_campaign=YEXT&y_source=1_MTkyNTg4NzQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "type": [
+                "Pizza restaurant",
+                "Delivery service"
+            ],
+            "district": "North York",
+            "latitude": 43.754270299999995,
+            "longitude": -79.3513743,
+            "address_line": "Pizza Hut, 861 York Mills Rd #5, North York, ON M3B 1Y4, Canada",
+            "short_description": "Casual pizza chain with wide selection",
+            "long_description": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+            "open": {
+                "thursday": [
+                    "10:30 AM–12 AM"
+                ],
+                "friday": [
+                    "10:30 AM–1 AM"
+                ],
+                "saturday": [
+                    "10:30 AM–1 AM"
+                ],
+                "sunday": [
+                    "11:30 AM–11 PM"
+                ],
+                "monday": [
+                    "10:30 AM–12 AM"
+                ],
+                "tuesday": [
+                    "10:30 AM–12 AM"
+                ],
+                "wednesday": [
+                    "10:30 AM–12 AM"
+                ]
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipM1QiYRVMOMe03KcL6NWASO6MT1lBtOaXSp_lU=w114-h86-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipM1QiYRVMOMe03KcL6NWASO6MT1lBtOaXSp_lU=w408-h306-k-no"
+            ]
+        }
+    ],
+    "next_page_url": "https://api.scraperapi.com?autoparse=true&url=https%3A%2F%2Fgoogle.com%2Fsearch%3Ftbm%3Dmap%26authuser%3D0%26pb%3D!1spizzahut%2520toronto!7i20!8i20!10b1!12m40!1m5!18b1!30b1!31m1!1i1!34i1!2m3!5m1!6e2!20e3!4i0!6m13!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178i1!193i1!206i1!212i1!213i1!10b1!12b1!13b1!14b1!16b1!17m2!3m1!1i1!20m3!5e2!6b1!14b1!46m1!1i0!96i1!19m4!2m3!1i360!2i120!4i8!20m48!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!22m5!1susXlZ_uHBZO0ptQPi_PAkQE!7e81!14m1!3susXlZ_uHBZO0ptQPi_PAkQE!15i9937!24m116!1m29!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m18!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!25b1!27m1!1b0!28b0!32b1!33m1!1b1!34i0!36i1!5m5!2b1!5b1!6b1!7b1!10b1!10m1!8e3!11m2!3m1!1i1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!29b1!30m1!2b1!36b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!65m6!3m5!1m4!1m3!1m2!1i224!2i298!71b1!72m25!1m9!2b1!5b1!7b1!12m5!1i1!2i1!4m2!1m1!1i1!4b1!8m12!1m11!1m7!4m6!1m1!1i1!2m1!1i3!3m1!1i4!3sother_user_google_reviews!6m1!1i1!9b1!89b1!98m3!1i1!2i1!3i1!103b1!113b1!114m3!1i1!2m1!1i1!117b1!122m1!1b1!125b0!126b1!127i1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i768!1m6!1m2!1i974!2i0!2m2!1i1024!2i768!1m6!1m2!1i0!2i0!2m2!1i1024!2i20!1m6!1m2!1i0!2i748!2m2!1i1024!2i768!34m18!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10i2!50m3!2e2!3m1!3b1!61b1!67m3!7b1!10b1!14b1!69i726%26q%3Dpizzahut%2520toronto%26tch%3D0%26ech%3D1"
+}
